@@ -1,49 +1,59 @@
 # 📊 Python Libraries Practice
 
-This repository contains my learning and practice work on important Python libraries used in Data Science.
+This repository contains my hands-on learning of Python libraries for Data Analysis.
+
+---
 
 ## 📚 Libraries Covered
 
 ### 🔹 NumPy
-- Array creation
-- Indexing & slicing
-- Mathematical operations
-- Aggregation functions
+
+#### Topics I Covered:
+- Array creation (np.array)
+- Basic operations on arrays
+- NumPy operators
+- Element-wise operations
+- Aggregation functions (sum, mean, min, max)
+
+---
 
 ### 🔹 Pandas
-- DataFrame creation
+
+#### Topics I Covered:
+- DataFrame basics
 - Reading CSV files
-- Data filtering
-- Handling missing values
+- Basic data handling
 
 ---
 
-## 🎯 Purpose
+## 🎯 My Learning Approach
 
-- To build a strong foundation in data analysis  
-- To improve practical skills using Python libraries  
-- To prepare for Data Science and Machine Learning  
-
----
-
-## 🚀 Tools Used
-
-- Python  
-- Jupyter Notebook  
+- Learning step by step  
+- Practicing with Jupyter Notebook  
+- Updating this repository as I progress  
 
 ---
 
 ## 📈 Progress
 
-- NumPy ✅  
-- Pandas ✅  
-- More libraries coming soon...  
+- NumPy ✅ Basics Completed  
+- Pandas 🔄 Learning in progress  
+
+---
+
+## 🚀 Future Topics
+
+- Advanced Pandas  
+- Data Cleaning  
+- Data Visualization (Matplotlib)  
+- Machine Learning  
 
 ---
 
 ## 👨‍💻 Author
 
 **Arulprasath D**  
-Data Science Enthusiast | Python • SQL • Power BI
+Aspiring Data Analyst | Data Science Enthusiast  
+Python • SQL • Power BI  
 
 ---
