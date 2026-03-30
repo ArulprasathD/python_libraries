@@ -1,4 +1,4 @@
-# 📊  Python Libraries Practice 
+# 📊  Python Libraries Practice  
 
 This repository contains my hands-on learning of Python libraries for Data Analysis .
 
