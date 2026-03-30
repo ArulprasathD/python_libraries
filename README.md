@@ -4,7 +4,7 @@ This repository contains my hands-on learning of Python libraries for Data Analy
 
 ---  
 
-## 📚 Libraries Covered
+## 📚 Libraries Covered 
 
 ### 🔹 NumPy
 
