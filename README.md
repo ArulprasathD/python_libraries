@@ -1,10 +1,10 @@
-# 📊 Python Libraries Practice
+# 📊 Python Libraries Practice    
+  
+This repository contains my hands-on learning of Python libraries for Data Analysis .
 
-This repository contains my hands-on learning of Python libraries for Data Analysis.
+---  
 
----
-
-## 📚 Libraries Covered
+## 📚 Libraries Covered 
 
 ### 🔹 NumPy
 
@@ -26,7 +26,7 @@ This repository contains my hands-on learning of Python libraries for Data Analy
 
 ---
 
-## 🎯 My Learning Approach
+## 🎯 My Learning Approach 
 
 - Learning step by step  
 - Practicing with Jupyter Notebook  
@@ -39,9 +39,9 @@ This repository contains my hands-on learning of Python libraries for Data Analy
 - NumPy ✅ Basics Completed  
 - Pandas 🔄 Learning in progress  
 
----
+--- 
 
-## 🚀 Future Topics
+## 🚀 Future Topics 
 
 - Advanced Pandas  
 - Data Cleaning  
